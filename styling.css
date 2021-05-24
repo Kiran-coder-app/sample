@@ -1,0 +1,21 @@
+.btn:hover{
+    border: 1px #fff solid;
+    background-color: #fff;
+    color:black;
+    border-radius: 0%;
+}
+.row{
+    border: 1px #fff solid;
+    padding:0;
+    margin:0;
+}
+.active{
+    background-color: #fff !important;
+    color:#000 !important;
+    border: 1px #fff solid !important;
+}
+.btn{
+    border: 1px #fff solid;
+    border-radius:0%;
+
+}
